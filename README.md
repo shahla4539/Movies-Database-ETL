@@ -6,8 +6,10 @@ A data pipeline moves data from a source to a destination, and the ETL process c
 
 ## Steps Taken for the ETL process:
 Following steps were taken to complete the ETL process:
-•	Created an ETL pipeline from raw data to a SQL database.
+* Created an ETL pipeline from raw data to a SQL database.
+
 •	Extract data from disparate sources using Python: Wikipedia and Kaggle in JSON and CSV files.
+
 •	Clean and transform data using Pandas.
 •	Use regular expressions to parse data and to transform text into numbers.
 •	Load data with PostgreSQL.
